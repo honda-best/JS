@@ -1,0 +1,15 @@
+body {
+   background-color: rgb(17, 14, 6);
+   margin: 40px;
+}
+
+a {
+   font-size: 28px;
+   color: rgb(241, 239, 239);
+   text-decoration: none;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover {
+   color: rgb(204, 29, 29) ;
+}

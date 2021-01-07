@@ -1,0 +1,10 @@
+body {
+   background-color: rgb(233, 230, 227);
+	margin: 50px;
+	font-size: 24px;
+ }
+ 
+p:hover {
+  color: rgb(204, 29, 29);
+  font-size: 25px;
+}
