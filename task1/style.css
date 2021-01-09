@@ -1,0 +1,10 @@
+body {
+   background: url('https://ds05.infourok.ru/uploads/ex/11c8/000f2cf7-36f47336/hello_html_m3b7a47ba.jpg');
+   background-position: 50% 0;
+   background-repeat: no-repeat;
+   background-size: 200px 200px;
+}
+
+h1:hover {
+   text-decoration: underline;
+}
